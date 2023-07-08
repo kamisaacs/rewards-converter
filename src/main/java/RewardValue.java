@@ -21,7 +21,7 @@ public class RewardValue {
         return cashValue;
     }
 
-    // Get miles value constructor
+    // Get miles value method
     public double getMilesValue() {
         return milesValue;
     }
